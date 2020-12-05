@@ -1,0 +1,2 @@
+# Unset the text attribute. This means git treats all files as binary, and thus does not perform any line-ending conversion.
+* -text
